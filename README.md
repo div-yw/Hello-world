@@ -1,2 +1,3 @@
 # Hello-world
-just another repository
+大家好！
+我喜爱前端，喜欢拿js做一些有趣的小特效。
